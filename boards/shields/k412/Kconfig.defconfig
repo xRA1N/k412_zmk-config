@@ -1,0 +1,6 @@
+if SHIELD_K412
+
+config ZMK_KEYBOARD_NAME
+    default "k412"
+
+endif # SHIELD_K412
