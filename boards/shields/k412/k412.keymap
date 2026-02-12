@@ -21,7 +21,7 @@
     &kp TAB  &kp A &kp S &kp D &kp F &kp G &kp H &kp J &kp K &kp L &kp SEMI &kp RET
     &kp LSHFT &kp Z &kp X &kp C &kp V &kp B  &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RSHFT
     &kp LCTL &kp LGUI &kp DEL &kp SPACE  &kp SPACE  &kp TAB &kp BSPC &kp RALT &kp A &kp A &kp A &kp A
-            >;
+            
             >;
         };
     };
