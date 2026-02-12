@@ -34,9 +34,9 @@
             , <&pro_micro 7 GPIO_ACTIVE_HIGH> // col 7
             , <&pro_micro 8 GPIO_ACTIVE_HIGH> // col 8
             , <&pro_micro 9 GPIO_ACTIVE_HIGH> // col 9
-            , <&pro_micro 0 GPIO_ACTIVE_HIGH> // col 0
-
-
+            , <&pro_micro 10 GPIO_ACTIVE_HIGH> // col 0
+            , <&pro_micro 14 GPIO_ACTIVE_HIGH> // col 0
+            , <&pro_micro 15 GPIO_ACTIVE_HIGH> // col 0
             ;
 
         row-gpios
