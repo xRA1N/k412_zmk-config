@@ -22,20 +22,20 @@
     &kp ESC &kp Q &kp W &kp E &kp R &kp T &kp Y &kp U &kp I &kp O &kp P &kp BSPC
     &kp TAB  &kp A &kp S &kp D &kp F &kp G &kp H &kp J &kp K &kp L &kp SEMI &kp RET
     &kp LSHFT &kp Z &kp X &kp C &kp V &kp B  &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RSHFT
-    &kp LCTL &kp LGUI &kp LALT &mo 5  &mo 1 &kp SPACE  &kp SPACE &kp LEFT &kp DOWN &kp UP &kp RIGHT &mo 1
+    &kp LCTL &kp LGUI &kp LALT &mo 2 &mo 1 &kp SPACE  &kp SPACE &kp LEFT &kp DOWN &kp UP &kp RIGHT &mo 1
             >;
         };
         1_layer {
             bindings = <
 // -----------------------------------------------------------------------------------------
-// |  ESC  |  Q  |  W  |  E   |  R   |  T   |  Y   |  U    |  I    |  O   |   P   |   \  |
+// |  ESC  |  1  |  2  |  3   |  4   |  5   |  6  |  7  |  8   |  9  |   0   |   bkspc  |
 // | UF2 |  A  |  S  |  D   |  F   |  G   |  H   |  J    |  K    |  L   |   ;   |RETURN|
 // | SHIFT |  Z  |  X  |  C   |  V   |  B   |  N   |  M    |  ,    |  .   |   /   | SHIFT|
 // | GUI  | DEL  | RET  |  SPACE  |   ESC  |  |   RET   |  SPACE  | TAB  | BSPC  | R-ALT |
     &kp ESC &kp N1 &kp N2 &kp N3 &kp N4 &kp N5 &kp N6 &kp N7 &kp N8 &kp N9 &kp N0 &kp BSPC
     &bootloader  &kp A &kp S &kp D &kp F &kp G &kp H &kp J &kp K &kp L &kp SEMI &kp RET
     &kp LSHFT &kp Z &kp X &kp C &kp V &kp B  &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RSHFT
-    &kp LCTL &kp LGUI &kp LALT &mo 5  &mo 6 &kp SPACE  &kp SPACE  &kp LEFT &kp UP &kp DOWN &kp RIGHT &mo 5  
+    &kp LCTL &kp LGUI &kp LALT &mo 5  &mo 6 &kp SPACE  &kp SPACE  &kp LEFT &kp DOWN &kp UP &kp RIGHT &mo 5  
             >;
         };
         2_layer {
