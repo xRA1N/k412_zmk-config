@@ -46,7 +46,7 @@
         2_layer {
             bindings = <
 // -----------------------------------------------------------------------------------------
-// |  ESC  |  Q  |  W  |  E   |  R   |  T   |  Y   |  U    |  I    |  O   |   P   |   \  |
+// |outtog | bt1 | bt2 | bt3  |  R   |  T   |  Y   |  U    |  I    |  O   |   P   |btclear|
 // |  TAB  |  A  |  S  |  D   |  F   |  G   |  H   |  J    |  K    |  L   |   ;   |RETURN|
 // | SHIFT |  Z  |  X  |  C   |  V   |  B   |  N   |  M    |  ,    |  .   |   /   | SHIFT|
 // | GUI  | DEL  | RET  |  SPACE  |   ESC  |  |   RET   |  SPACE  | TAB  | BSPC  | R-ALT |
